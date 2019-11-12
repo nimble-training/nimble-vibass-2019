@@ -4,4 +4,4 @@
 
 NIMBLE Bayesian Workshop, for scientific researchers and academics interested in using Bayesian methods via the NIMBLE package.
 
-[VIBASS](http://vabar.es/)
+[http://vabar.es/](http://vabar.es/)
